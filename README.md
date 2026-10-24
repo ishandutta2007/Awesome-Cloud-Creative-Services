@@ -30,41 +30,28 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global cloud creative software and media processing API sector is estimated at approximately **$9.5B to $11.2B**, expanding steadily at a 6.7%–8.2% CAGR as programmatic asset generation and generative AI workflows accelerate. While legacy suites (such as Adobe) anchor end-user creative software, the infrastructure and headless media API landscape remains **moderately to highly fragmented** rather than winner-take-all, driven by specialized developer micro-services across real-time image CDN transformation, automated video rendering, and self-hosted open-source stacks.
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Adobe Creative Cloud](https://www.adobe.com/creativecloud/plans.html)** | Suite of 20+ creative desktop and web apps including Photoshop, Illustrator, and Premiere, with cloud services for asset sync and collaboration. | **Creative Cloud Pro**: ~₹798/mo (incl. GST) for new subscribers; **Standard** tier available at lower cost with reduced AI credits . Regional pricing varies (e.g., NZ$106–132/mo) . | **7-day free trial** of generative credits for Pro subscribers . No permanent free tier. |
-
-| **[Cloudinary](https://cloudinary.com/)** | Image and video transformation API with CDN delivery, AI-powered optimization, and a generous free tier. | **Credit-based**: Free, Plus, Advanced, Pro PAYG, and Enterprise tiers. Small teams on Plus typically pay **$80–$150/mo** annually; mid-market on Advanced **$400–$2,000/mo** . | **Free plan**: Credit allocation for transformations, storage, and bandwidth (specific limits not detailed in search results) . |
-
-| **[Filestack](https://www.filestack.com/)** | File upload, transformation, and delivery API with AI-powered processing on higher tiers. | **Start**: **$69/mo** (20k uploads, 75GB bandwidth, 50k transformations, 50GB storage, 5 team members). **Grow**: $199/mo. **Scale**: $379/mo . | **Free forever**: **500 uploads, 1GB bandwidth, 1,000 transformations, 1GB storage, 1 team member** per month. AI operations (OCR, tagging, captioning) are **not** included . |
-
-| **[imgix](https://imgix.com/)** | Real-time image processing and CDN with infinite transformations and predictable pricing. | **Basic**: **$75/mo** (5k origin images, 500GB bandwidth, 5 sources, 5 users). **Growth**: $300/mo (25k images, 2.5TB bandwidth) . | **Free forever**: **1,000 origin images, infinite transformations, 100GB bandwidth, 2 sources, 2 users** . |
-
-| **[Transloadit](https://transloadit.com/)** | File processing API covering images, video, audio, and documents with a workflow-based model. | **Lite**: **$29/mo** (15GB processing). **Pro**: **$54/mo** annually (40GB processing, video turbo mode). **Enterprise**: custom . | **Free**: **5GB processing/month**, 200 priority slots/region, 2 collaborators, 0.5GB file size limit, **watermarked images**, audio/video trimmed . |
-
-| **[Kraken.io](https://kraken.io/)** | Image optimization and compression API with WordPress and Magento integrations. | **Micro**: **$5/mo** (500MB images). **Basic**: $9/mo (2GB). **Advanced**: $19/mo (5GB). **Premium**: $39/mo (15GB) . | **Free account**: **100MB testing quota**, no credit card required. Full API access included . |
-
-| **[Bannerbear](https://www.bannerbear.com/)** | API for generating images, videos, and PDFs from templates for social media and marketing automation. | **Automate**: **$50/mo** (200 AI credits). **Scale 10k**: $150/mo (600 AI credits). **Enterprise 2m**: $1,253/mo (5,200 AI credits) . | **Free trial**: **50 AI credits**. No permanent free tier . |
-
-| **[Renderforest](https://www.renderforest.com/)** | Online video, logo, and website builder with AI-powered generation and template library. | **Lite**: **$8/mo** annually (4,800 credits). **Pro**: **$12/mo** first year (19,200 credits). **Business**: **$34.30/mo** first year (36,000 credits) . | **Free plan** available with limited features and watermarked exports (specific limits not detailed in search results). |
-
-
+| Product | Company Size (Valuation / Revenue) | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Creative Cloud](https://www.adobe.com/creativecloud/plans.html)** | ~$100B–$146B Market Cap / ~$23.8B Revenue (FY2025) | Suite of 20+ creative desktop and web apps including Photoshop, Illustrator, and Premiere, with cloud services for asset sync and collaboration. | **Photography Plan**: **$9.99/mo** (billed annually). **Single App**: **$22.99/mo** (billed annually). **All Apps Standard**: **$54.99/mo**; **All Apps Pro**: **$69.99/mo** (billed annually). | **7-day free trial** of full Creative Cloud suite with generative AI credits (credit card required; converts to paid subscription if not canceled). No permanent free tier. |
+| **[Cloudinary](https://cloudinary.com/)** | ~$2B Valuation / ~$100M+ ARR | Image and video transformation API with CDN delivery, AI-powered optimization, and programmable media pipelines. | **Plus**: **$89/mo** billed annually (or $99/mo, 225 credits/mo). **Advanced**: **$224/mo** billed annually ($249/mo, 600 credits/mo). **Pro PAYG**: usage-based overage tiers starting at standard sub. | **Free forever plan**: **25 credits/month** (~25,000 transformations, 25 GB storage, or 25 GB bandwidth on rolling 30-day window), up to 3 user seats, no credit card required. |
+| **[imgix](https://imgix.com/)** | ~$11.5M Funding / ~$10M–$14M ARR | Real-time image processing and CDN with infinite transformations and predictable pricing. | **Basic**: **$75/mo** (5,000 origin images, 500GB bandwidth, 5 sources, 5 users). **Growth**: **$300/mo** (25,000 images, 2.5TB bandwidth). | **Free forever plan**: **1,000 origin images, infinite transformations, 100GB bandwidth, 2 sources, 2 users** per month. |
+| **[Renderforest](https://www.renderforest.com/)** | ~$12M Funding / ~$10.5M Revenue | Online video, logo, and website builder with AI-powered generation and template library. | **Lite**: **$8/mo** billed annually (4,800 credits). **Pro**: **$12/mo** billed annually first year (19,200 credits). **Business**: **$34.30/mo** billed annually first year (36,000 credits). | **Free forever plan**: 500MB cloud storage, up to 3-minute video exports capped at 360p/720p with permanent Renderforest watermark, and basic trial AI credits. |
+| **[Filestack](https://www.filestack.com/)** | ~$1.92M Funding / Acquired (est. $5M–$10M Revenue) | File upload, transformation, and delivery API with AI-powered processing on higher tiers. | **Start**: **$69/mo** (20k uploads, 75GB bandwidth, 50k transformations, 50GB storage, 5 team members). **Grow**: **$199/mo**. **Scale**: **$379/mo**. | **Free forever plan**: **500 uploads, 1GB bandwidth, 1,000 transformations, 1GB storage, 1 team member** per month (advanced AI operations excluded). |
+| **[Transloadit](https://transloadit.com/)** | Bootstrapped / ~$1.3M–$1.4M ARR | File processing API covering images, video, audio, and documents with an automated workflow-based model. | **Lite**: **$29/mo** (15GB processing/mo). **Pro**: **$54/mo** billed annually (40GB processing, video turbo mode). | **Free forever plan**: **5GB processing/month**, 200 priority slots/region, 2 collaborators, 0.5GB file size limit, images watermarked, audio/video duration trimmed. |
+| **[Bannerbear](https://www.bannerbear.com/)** | Bootstrapped / ~$1M ARR | API for generating images, videos, and PDFs from templates for social media and marketing automation. | **Automate**: **$50/mo** (200 AI credits, 1,000 image/video renders). **Scale 10k**: **$150/mo** (600 AI credits, 5,000 renders). **Enterprise 2m**: **$1,253/mo** (5,200 AI credits). | **Free trial**: **50 AI credits / test image generations** with no expiry and no credit card required. No permanent free tier. |
+| **[Kraken.io](https://kraken.io/)** | Bootstrapped / ~$84K–$170K Revenue | Image optimization and compression API with WordPress and Magento integrations. | **Micro**: **$5/mo** (500MB images). **Basic**: **$9/mo** (2GB). **Advanced**: **$19/mo** (5GB). **Premium**: **$39/mo** (15GB). | **Free trial account**: **100MB quota testing balance**, no credit card required, with full API feature access. No recurring free allowance. |
 
 ## Open-Source GitHub Projects
 
