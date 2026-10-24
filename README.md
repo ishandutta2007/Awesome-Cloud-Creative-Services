@@ -7,7 +7,7 @@
 [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Cloud-Creative-Services/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Creative-Services?style=social)](https://github.com/ishandutta2007/Awesome-Cloud-Creative-Services/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Creative-Services?style=social)](https://github.com/ishandutta2007/Awesome-Cloud-Creative-Services/stargazers)
 [![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
 
 **A Curated Directory of Cloud Creative Services, Media Processing APIs, and High-Performance Self-Hosted Image & Video Pipelines.**
@@ -79,43 +79,43 @@ Self-hosted image transformation servers, video transcoding frameworks, and medi
 
 ### Top Projects (Ranked by Stars)
 
-- **[Remotion](https://github.com/remotion-dev/remotion)** [![GitHub Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
+- **[Remotion](https://github.com/remotion-dev/remotion)** [![GitHub_Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
   **Make videos programmatically using React.** Create MP4 videos dynamically with React components, CSS, canvas, and WebGL. Supports cloud rendering on AWS Lambda for massive horizontal scalability, making it ideal for personalized video generation and dynamic motion graphics.
 
-- **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
+- **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub_Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
   **The universal video/audio transcoder.** The foundational, cross-platform multimedia framework capable of decoding, encoding, transcoding, muxing, demuxing, streaming, and filtering virtually every audio and video format known. Powers the encoding backends of nearly all commercial streaming and cloud creative platforms.
 
-- **[Sharp](https://github.com/lovell/sharp)** [![GitHub Stars](https://img.shields.io/github/stars/lovell/sharp?style=social&color=white)](https://github.com/lovell/sharp/stargazers)  
+- **[Sharp](https://github.com/lovell/sharp)** [![GitHub_Stars](https://img.shields.io/github/stars/lovell/sharp?style=social&color=white)](https://github.com/lovell/sharp/stargazers)  
   **High-performance Node.js image processing.** Built on top of libvips, Sharp is typically 4x–5x faster than ImageMagick and GraphicsMagick. It efficiently handles JPEG, PNG, WebP, AVIF, and TIFF images with automatic memory reclamation, making it the premier choice for Node.js backend microservices.
 
-- **[HandBrake](https://github.com/HandBrake/HandBrake)** [![GitHub Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers)  
+- **[HandBrake](https://github.com/HandBrake/HandBrake)** [![GitHub_Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers)  
   **Open-source video transcoder.** A versatile video conversion engine with built-in presets for web and mobile devices, hardware-accelerated encoding (NVENC, Intel QSV, Apple VideoToolbox), and batch processing capabilities.
 
-- **[ImageMagick](https://github.com/ImageMagick/ImageMagick)** [![GitHub Stars](https://img.shields.io/github/stars/ImageMagick/ImageMagick?style=social&color=white)](https://github.com/ImageMagick/ImageMagick/stargazers)  
+- **[ImageMagick](https://github.com/ImageMagick/ImageMagick)** [![GitHub_Stars](https://img.shields.io/github/stars/ImageMagick/ImageMagick?style=social&color=white)](https://github.com/ImageMagick/ImageMagick/stargazers)  
   **The foundational image processing toolkit.** Ubiquitous command-line tools and C APIs for reading, converting, editing, compositing, and writing raster and vector images across more than 200 formats. A bedrock utility in web and CMS servers worldwide.
 
-- **[Pillow](https://github.com/python-pillow/Pillow)** [![GitHub Stars](https://img.shields.io/github/stars/python-pillow/Pillow?style=social&color=white)](https://github.com/python-pillow/Pillow/stargazers)  
+- **[Pillow](https://github.com/python-pillow/Pillow)** [![GitHub_Stars](https://img.shields.io/github/stars/python-pillow/Pillow?style=social&color=white)](https://github.com/python-pillow/Pillow/stargazers)  
   **The friendly Python Imaging Library (PIL fork).** The standard Python library for image manipulation, pixel-level editing, filter pipelines, and dynamic banner/watermark generation. Crucial for Python-based creative and machine learning workflows.
 
-- **[libvips](https://github.com/libvips/libvips)** [![GitHub Stars](https://img.shields.io/github/stars/libvips/libvips?style=social&color=white)](https://github.com/libvips/libvips/stargazers)  
+- **[libvips](https://github.com/libvips/libvips)** [![GitHub_Stars](https://img.shields.io/github/stars/libvips/libvips?style=social&color=white)](https://github.com/libvips/libvips/stargazers)  
   **A fast, low-memory image processing engine.** Features a demand-driven, multi-threaded streaming architecture that processes large images without loading entire uncompressed bitmaps into RAM. Powers engines like imgproxy and Sharp.
 
-- **[imgproxy](https://github.com/imgproxy/imgproxy)** [![GitHub Stars](https://img.shields.io/github/stars/imgproxy/imgproxy?style=social&color=white)](https://github.com/imgproxy/imgproxy/stargazers)  
+- **[imgproxy](https://github.com/imgproxy/imgproxy)** [![GitHub_Stars](https://img.shields.io/github/stars/imgproxy/imgproxy?style=social&color=white)](https://github.com/imgproxy/imgproxy/stargazers)  
   **Fast and secure standalone image processing server.** Written in Go with libvips under the hood, imgproxy is designed for extreme throughput and security. Features HMAC-signed URL authorization, stateless Dockerized deployments, and native cloud storage integration (AWS S3, Google Cloud Storage, Azure Blob).
 
-- **[Thumbor](https://github.com/thumbor/thumbor)** [![GitHub Stars](https://img.shields.io/github/stars/thumbor/thumbor?style=social&color=white)](https://github.com/thumbor/thumbor/stargazers)  
+- **[Thumbor](https://github.com/thumbor/thumbor)** [![GitHub_Stars](https://img.shields.io/github/stars/thumbor/thumbor?style=social&color=white)](https://github.com/thumbor/thumbor/stargazers)  
   **Smart, on-demand image cropping and resizing service.** Written in Python, Thumbor provides smart facial and feature detection cropping, URL signature verification, and pluggable extraction and storage backends.
 
-- **[pngquant](https://github.com/kornelski/pngquant)** [![GitHub Stars](https://img.shields.io/github/stars/kornelski/pngquant?style=social&color=white)](https://github.com/kornelski/pngquant/stargazers)  
+- **[pngquant](https://github.com/kornelski/pngquant)** [![GitHub_Stars](https://img.shields.io/github/stars/kornelski/pngquant?style=social&color=white)](https://github.com/kornelski/pngquant/stargazers)  
   **Lossy PNG compressor library and CLI.** Converts 24/32-bit PNGs to 8-bit palette PNGs with full alpha transparency, reducing file size by 60%–80% with minimal visual degradation.
 
-- **[Imagick (Go)](https://github.com/gographics/imagick)** [![GitHub Stars](https://img.shields.io/github/stars/gographics/imagick?style=social&color=white)](https://github.com/gographics/imagick/stargazers)  
+- **[Imagick (Go)](https://github.com/gographics/imagick)** [![GitHub_Stars](https://img.shields.io/github/stars/gographics/imagick?style=social&color=white)](https://github.com/gographics/imagick/stargazers)  
   **Go bindings to ImageMagick's MagickWand API.** Enables native Go microservices to invoke ImageMagick C-bindings for deep programmatic image compositing, drawing, and format conversions.
 
 ### Specialized Engines & Libraries
 
-- **[vips-ffm](https://github.com/libvips/vips-ffm)** [![GitHub Stars](https://img.shields.io/github/stars/libvips/vips-ffm?style=social&color=white)](https://github.com/libvips/vips-ffm/stargazers) — The FFmpeg integration plugin for libvips, allowing instant video frame extraction and poster image generation directly within libvips pipelines.
-- **[sharp-cli](https://github.com/vsemozhetbyt/sharp-cli)** [![GitHub Stars](https://img.shields.io/github/stars/vsemozhetbyt/sharp-cli?style=social&color=white)](https://github.com/vsemozhetbyt/sharp-cli/stargazers) — CLI interface for Sharp, bringing high-speed libvips transformations to shell scripts and CI/CD pipelines.
+- **[vips-ffm](https://github.com/libvips/vips-ffm)** [![GitHub_Stars](https://img.shields.io/github/stars/libvips/vips-ffm?style=social&color=white)](https://github.com/libvips/vips-ffm/stargazers) — The FFmpeg integration plugin for libvips, allowing instant video frame extraction and poster image generation directly within libvips pipelines.
+- **[sharp-cli](https://github.com/vsemozhetbyt/sharp-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/vsemozhetbyt/sharp-cli?style=social&color=white)](https://github.com/vsemozhetbyt/sharp-cli/stargazers) — CLI interface for Sharp, bringing high-speed libvips transformations to shell scripts and CI/CD pipelines.
 
 ---
 
@@ -127,7 +127,7 @@ Contributions are warmly welcomed! Help keep this ecosystem comprehensive, accur
 2. **Add or refine entries** in `README.md`:
    - Follow the established markdown table or list structure.
    - For SaaS products, include exact pricing tiers, company size, and specific free tier limits.
-   - For open-source projects, include the social stars badge linked to stargazers.
+   - For open-source projects, include the social Stars_Badge linked to stargazers.
 3. **Validate links and facts**: Ensure URLs resolve correctly and descriptions remain strictly factual.
 4. **Submit a Pull Request** with a concise description of your additions.
 
